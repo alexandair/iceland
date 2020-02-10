@@ -22,7 +22,7 @@ $SubscriptionName = "<Subscription Name>"
 ### Create a VNet with the `jumpbox` and `management` subnets
 
 > [!TIP]
-> Useful cmdlets: `New-AzVirtualNetwork`, `New-AzVirtualNetworkSubnetConfig`, `Set-AzVirtualNetwork`
+> Useful cmdlets: `New-AzVirtualNetwork`, `Add-AzVirtualNetworkSubnetConfig`, `Set-AzVirtualNetwork`
 
 ### Create the network security groups (NSGs)
 
