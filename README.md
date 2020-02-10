@@ -1,1 +1,1 @@
-# iceland
+# Labs for Azure training
