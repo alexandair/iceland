@@ -1,7 +1,7 @@
 # Create a simple PowerShell runbook in Azure Automation
 
-Create an Azure Automation Account and a simple "HelloWorld" runbook that you will test and publish while you learn how to track the status of the runbook job.
-Then modify the runbook to manage Azure resources (adding an authentication to Azure), in this case stoping an Azure virtual machine.
+Create an Azure Automation Account and a simple runbook that you will test and publish while you learn how to track the status of the runbook job.
+Then modify the runbook to manage Azure resources (adding an authentication to Azure), in this case stopping an Azure virtual machine.
 
 ## Create an Azure Automation Account
 
